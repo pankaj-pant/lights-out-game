@@ -2,7 +2,7 @@
 
 Lights Out is based on a deceptively simple concept. Clicking on a cell toggles that cell and each of its immediate neighbors. The goal is to turn off all the lights.
 
-* [Live Demo](https://lights-out-retro.herokuapp.com/)
+* [Live Demo](https://lights-out-game-c1cee.web.app/)
 
 
 ## Quick start
